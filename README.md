@@ -1,6 +1,6 @@
 # TypeScript Samples
 
-Most of the samples here will assume that you have TypeScript installed.
+Most of the samples here will assume that you have TypeScript installe
 You can get TypeScript with Visual Studio, NuGet, or with npm:
 
 ```shell
