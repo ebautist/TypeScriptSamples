@@ -1,4 +1,4 @@
-# TypeScript Sample: AMD Modules
+# TypeScript Sample: AMD Modules.
 
 ## Overview
 
